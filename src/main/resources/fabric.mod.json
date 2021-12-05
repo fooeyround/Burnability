@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "burnability",
+  "version": "${version}",
+
+  "name": "Burnability",
+  "description": "Backport Shulker Box Burning Mechanics From 1.17",
+  "authors": [
+    "Jack"
+  ],
+  "contact": {
+    "homepage": "https://youtube.com",
+    "sources": "https://github.com/JackTheDevel0per/Burnability"
+  },
+
+  "license": "MIT",
+  "icon": "assets/burnability/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.Jack.Burnability.Burnability"
+    ]
+  },
+  "mixins": [
+    "burnability.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+  }
+}

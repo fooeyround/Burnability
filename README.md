@@ -1,5 +1,10 @@
-# Burnability
-Backport 1.17's Shulker Burning Mechanics Cause Why Not.
+## Burnability
+Server Side Mod To Add Shulker Burning Mechanics from 1.17
 
 
-This Mod is For 1.16.5, and Has not Plan on **Updating** for opbius Reasons.
+
+
+
+
+## Version
+1.16.5
